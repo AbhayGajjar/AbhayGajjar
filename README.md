@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm AbhayGajjar</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="![elastic](https://github.com/AbhayGajjar/AbhayGajjar/assets/124171231/17259d7b-e75a-4f15-bac8-a773259f7f09)">
+![elastic](https://github.com/AbhayGajjar/AbhayGajjar/assets/124171231/17259d7b-e75a-4f15-bac8-a773259f7f09)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygajjar&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygajjar" /> </p>
 
