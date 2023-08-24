@@ -28,10 +28,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma" />
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 
 
