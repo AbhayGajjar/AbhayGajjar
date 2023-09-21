@@ -43,4 +43,9 @@
 </h3>
 
 <br/>
+<p align="center">
+  <a href="https://github.com/AbhayGajjar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhayGajjar&theme=radical" alt="AbhayGajjar GitHub Contribution"/>
+  </a>
+</p>
 
