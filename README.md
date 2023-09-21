@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhayGajjar?tab=repositories](https://github.com/AbhayGajjar?tab=repositories)
 
-- 💬 Ask me about **react js , html,css ,js,bootstrap,tailwind css,Next js,firebase,angular js**
+- 💬 Ask me about **react js, advance js , html5,css3 ,bootstrap,tailwind css,Next js,firebase,python,mongodb,gsap,**
 
 - 📫 How to reach me **abhaymgajjar@gmail.com**
 
