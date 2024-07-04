@@ -33,9 +33,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📫 How to reach me **abhaymgajjar@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ fact **Your Enemy Know Your Worth More Then Your Friends**
  
 ### 📫 Contact Me:
 
