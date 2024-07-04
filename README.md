@@ -36,6 +36,11 @@
 - 📫 How to reach me **abhaymgajjar@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
+- 
+
+ - **Email**: abhaymgajjar@gmail.com 
+ - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/abhay-gajjar/)
+ - **Portfolio**: [Explore my portfolio](https://abhay-portfolio-site.vercel.app/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
