@@ -95,24 +95,13 @@
 
 <h3 align="left">Trophy:</h3>
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhayGajjar&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhayGajjar&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbhayGajjar&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![AbhayGajjar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhayGajjar\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![AbhayGajjar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayGajjar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
 
