@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- ⚡ fact **Your Enemy Know Your Worth More Then Your Friends**
+- ⚡ fact: **Your Enemy Know Your Worth More Then Your Friends**
  
 ### 📫 Contact Me:
 
