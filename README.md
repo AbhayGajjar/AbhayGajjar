@@ -36,7 +36,8 @@
 - 📫 How to reach me **abhaymgajjar@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
-- 
+ 
+### 📫 Contact Me:
 
  - **Email**: abhaymgajjar@gmail.com 
  - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/abhay-gajjar/)
